@@ -1,3 +1,7 @@
 # portofoliobootstrap-1
 
-Silahkan Download Semua File Yang ada, Lalu Buat Folder Master dan Letakan Folder CSS, Javascript, Images, dan File Index.html di satu folder Master. lalu jalankan Index.html, Enjoy!!
+TUGAS
+- Upload tugas web anda pada minggu lalu ke Github kemudian menggunakan
+Github Page lakukan hosting. Setelah anda hosting kirimkan url hasil hosting di
+classroom.
+- Format hasil hosting di Github https://username_anda.github.io/NIM_Nama/
